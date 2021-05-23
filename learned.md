@@ -34,4 +34,8 @@
 | -- January : Java and Go (C# was windows centric mostly, love linux)\
 | -- February : spring boot, Go and Solidity (Ethereum india fellowship) \
 | -- March : NGINX, Docker, Go | Project deepchain (polishing devops) \
-| -- April : started learning c# and blazor (dropping js (i am done with it), side-line go)
+| -- April : started learning java and spring boot (side-line go)
+| -- May : java and revising Data Structures
+
+
+
