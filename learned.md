@@ -35,8 +35,9 @@
 | -- February : spring boot, Go and Solidity (Ethereum india fellowship) \
 | -- March : NGINX, Docker, Go | Project deepchain (polishing devops) \
 | -- April : started learning java and spring boot (side-line go) \
-| -- May : java and revising Data Structures
-| -- June : Polishing Golang
+| -- May : java and revising Data Structures \
+| -- June : Polishing Golang \
+| -- July : Dotnet and Data Structures
 
 
 
