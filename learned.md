@@ -37,7 +37,9 @@
 | -- April : started learning java and spring boot (side-line go) \
 | -- May : java and revising Data Structures \
 | -- June : Polishing Golang \
-| -- July : Dotnet and Data Structures
+| -- July : Dotnet and Data Structures and PostgreSQL \
+| -- August : PostgreSQL, Mongodb course, .net WebAPI 
+
 
 
 
