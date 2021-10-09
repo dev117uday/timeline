@@ -39,6 +39,8 @@
 | -- June : Polishing Golang \
 | -- July : Dotnet and Data Structures and PostgreSQL \
 | -- August : PostgreSQL, Mongodb course, .net WebAPI 
+| -- September : Databases, Gate Prep, Data Structures and Algorithms
+| -- October : 30 days of GCP, Github Campus Expert, Java, Spring Boot
 
 
 
