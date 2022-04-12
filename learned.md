@@ -1,11 +1,10 @@
 # Timeline : Things i tried learning
 
 ### 2019
- 
+
 - May : C++ (continuing school) 
 - July-August : Python3 and Git (got my laptop) 
 - August : HTML, CSS, JS (For making portfolio site)  
-	-  learned a bit of Js and made my first PWA 
 - September ; Electronics, Robotics and C (for eyantra robotics competition) 
 - October : Matlab and Octave programming (robotics competition) 
 - October - November : Django and mySQL (gettting started with web development) 
@@ -13,7 +12,6 @@
 
 ### 2020
 
- 
 - January : Django, SQL  (web development) 
 - February : Electronics and C++ (robotics competition) 
 - March : JS and firebase (changing web development stack) 
@@ -30,7 +28,6 @@
 
 ### 2021
 
- 
 - January : Java and Go (C# was windows centric mostly, love linux)
 - February : spring boot, Go and Solidity (Ethereum india fellowship) 
 - March : NGINX, Docker, Go | Project deepchain (polishing devops) 
@@ -47,3 +44,4 @@
 ### 2022
 - January : Java Spring Boot and JPA 
 - February : Spring Boot, JPA and Microservices
+- March : Spring Boot, Azure
